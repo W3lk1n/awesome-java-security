@@ -1,61 +1,11 @@
-> Focus on Java Security since November 1, 2021 👣
+> Java Security since November 1, 2021 👣
 
 ---
 
-JavaEE
-```
-Servlet
-JSP
-JSF
-Expression Language 
-Template Engine 
-JDBC
-```
+1、为什么会有这个仓库？
+- 整理自己在 java 安全学习过程的笔记和思路。
+- 输出与分享，或许刚好有人需要这些知识。
 
-Application
-```
-Apache
-Atlassian
-VMware
-Weaver 
-Yonyou 
-Landray 
-```
-
-Component
-```
-Apache Commons JXPath
-Apache Batik
-UrlRewriteFilter
-```
-
-Framework
-```
-Log 
-Microservice
-RPC
-Security     
-Web
-```
-
-
-Middleware
-```
-Jboss
-Jetty
-Resin
-Tomcat
-WebLogic
-Wildfly
-```
-
-Mechanism
-```
-Serialization
-DataBinding
-BeanValidation
-```
-
-
-
+2、仓库包含了哪些内容？
+- 目前主要是各种漏洞相关的，后面会陆续补充一些利用和开发的知识。每一个目录都是按照自己现有的知识储备和理解来进行分类的，所以会随着自己的学习会不断的调整结构。
 
