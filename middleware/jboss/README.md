@@ -3,12 +3,6 @@
 
 ### JBoss EAP/AS <= 6.* Pre-Auth RCE
 
-- https://jspin.re/jboss-eap-as-6-rce-a-little-bit-beyond-xac-xed/
-- https://github.com/jespinhara/j-is-the-boss
-
-测试效果：
-
-![image](https://user-images.githubusercontent.com/55024146/165736580-d0d13aae-84a5-4812-8e51-267ab0a78949.png)
 
 
 利用研究
@@ -20,7 +14,7 @@
 
 ### 内存马
 
-#### 意外发现-内嵌Tomcat
+内嵌Tomcat
 
 ![image-20211230142240042](img/image-20211230142240042.png)
 
